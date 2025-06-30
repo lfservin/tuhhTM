@@ -1,4 +1,4 @@
-# OpenSecuritySummit - Live Threat Modeling resources
+# TUHH - Threat Modeling Kata 
 
 Resources for TUHH threat modeling kata session on Jun. 30th, 2025
 
