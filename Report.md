@@ -40,8 +40,9 @@ Startup selling SaaS marketplace solution to Pet Stores to optimize their proces
 ![container Diagram](./images/container.png)
 
 ## Threat Model
-Exercise 2: identify vulnerabilities. Help yourself with these sources: [cwes](./cwes.md) and [security principles](./securityPrinciples.md)
-Exercise3: Create Credible attack vectors. You can inspire yourself with this resource [elevation of privilege](./stride.md)
+
+* Exercise 2: identify vulnerabilities. Help yourself with these sources: [cwes](./cwes.md) and [security principles](./securityPrinciples.md)
+* Exercise3: Create Credible attack vectors. You can inspire yourself with this resource [elevation of privilege](./stride.md)
 |Id| Title| Vulnerability | Attack scenario | Outcome|Severity|
 |--|--|--|--|--|--|
 |1| name me | Briefly describe the vulnerability | Given the vulnerability, WHEN bad thing happens, THEN this is the consequence| Rate me (low, medium, high, critical) | What can we do about it|
