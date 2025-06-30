@@ -45,6 +45,6 @@ Startup selling SaaS marketplace solution to Pet Stores to optimize their proces
 * Exercise3: Create Credible attack vectors. You can inspire yourself with this resource [elevation of privilege](./stride.md)
 
 
-|Id| Title| Vulnerability | Attack scenario | Outcome|Severity|
-|--|--|--|--|--|--|
+|Id| Title| Vulnerability | Attack scenario | Outcome|Severity|Countermeasure|
+|--|--|--|--|--|--|--|
 |1| name me | Briefly describe the vulnerability | Given the vulnerability, WHEN bad thing happens, THEN this is the consequence| Rate me (low, medium, high, critical) | What can we do about it|
